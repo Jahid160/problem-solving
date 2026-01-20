@@ -6,6 +6,7 @@
 // Input: [5, 1, 9, 3]
 // Output: 9
 
+
 function maximum(params) {
 
   const total = Math.max(...params)
